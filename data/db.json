@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "learningcategory": 1,
+    "Learningcategory": 3
+  },
+  "models": {
+    "learningcategory": {
+      "1": "{\\\"category\\\":1,\\\"categoryname\\\":\\\"MWAHAHAHAHAHAHAHAHAHAHAHAHAMWAHAHAHAHAHAHAHAHAHAHAHAHA\\\",\\\"url\\\":\\\"test\\\"}"
+    },
+    "Learningcategory": {
+      "2": "{\"title\":2,\"category\":2,\"categoryname\":\"chekc\",\"url\":\"check\"}"
+    }
+  }
+}
